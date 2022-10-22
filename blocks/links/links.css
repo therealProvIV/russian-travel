@@ -1,0 +1,11 @@
+.links {
+    display: flex;
+    column-gap: 16px;
+}
+
+@media screen and (max-width: 550px) {
+    .links {
+        flex-direction: column;
+        row-gap: 32px;
+    }
+}
