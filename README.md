@@ -10,4 +10,4 @@
 1. Flexbox Layout
 2. Grid Layout
 
-Ознакомиться с проектом можно по ссылке
+Ознакомиться с проектом можно по [ссылке](https://therealproviv.github.io/russian-travel/)
