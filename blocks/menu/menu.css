@@ -1,0 +1,11 @@
+.menu {
+    display: flex;
+    column-gap: 16px;
+}
+
+@media screen and (max-width: 675px) {
+    .menu {
+        flex-direction: column;
+        row-gap: 32px;
+    }
+}
